@@ -1,4 +1,4 @@
-# 🚘 BMW Hackathon — Sensor Impact Analysis (2023)
+# 🚘 BMW Hackathon — Sensor Impact Analysis
 
 ## 📝 Overview
 This project was developed during the **BMW Hackathon 2023**.
@@ -7,17 +7,17 @@ This project was developed during the **BMW Hackathon 2023**.
 
 The workflow includes **EDA, preprocessing, feature engineering, imputation, and model preparation** for XGBoost-based feature importance extraction.
 
-> ⚠️ Note: Model training was halted due to the error. Once fixed, the pipeline will produce a ranked list of the most impactful sensors.
+> Note: Model training was halted due to the error. Once fixed, the pipeline will produce a ranked list of the most impactful sensors.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 - Identify sensors most correlated with defective parts (NOK).  
 - Business impact: Optimize maintenance and calibration, reduce NOK rates, and minimize unplanned downtime.
 
 ---
 
-## 🔬 Methodology
+## Methodology
 1. **Exploratory Data Analysis (EDA)**  
    - Analyzed distributions of part types, shifts, weekdays, correlations, and missing data patterns across ~400 sensors.
 
@@ -36,7 +36,7 @@ The workflow includes **EDA, preprocessing, feature engineering, imputation, and
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 - Preprocessing high-dimensional sensor data (~400 features).  
 - Encoding categorical and temporal variables.  
 - Advanced imputation strategies (`IterativeImputer`).  
@@ -45,11 +45,11 @@ The workflow includes **EDA, preprocessing, feature engineering, imputation, and
 
 ---
 
-## 📊 Expected Outcomes
+## Expected Outcomes
 - Once corrected, XGBoost will provide a **ranking of sensors by impact**.  
 - Business value: Focus monitoring and maintenance on the **top-ranked sensors** to reduce defects and improve line reliability.
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 Solve the error
