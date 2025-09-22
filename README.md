@@ -1,6 +1,6 @@
-# 🚘 BMW Hackathon — Sensor Impact Analysis
+# BMW Hackathon — Sensor Impact Analysis
 
-## 📝 Overview
+## Overview
 This project was developed during the **BMW Hackathon 2023**.
 
 **Objective:** Identify which sensors most strongly influence defective parts (NOK) to inform predictive maintenance and improve production quality. The focus is on **sensor impact ranking**, not just predicting part quality (OK vs NOK).
