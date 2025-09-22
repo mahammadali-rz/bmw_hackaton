@@ -7,7 +7,7 @@ This project was developed during the **BMW Hackathon 2023**.
 
 The workflow includes **EDA, preprocessing, feature engineering, imputation, and model preparation** for XGBoost-based feature importance extraction.
 
-> ⚠️ Note: Model training was halted due to the inclusion of the identifier column (`physical_part_id`). Once fixed, the pipeline will produce a ranked list of the most impactful sensors.
+> ⚠️ Note: Model training was halted due to the error. Once fixed, the pipeline will produce a ranked list of the most impactful sensors.
 
 ---
 
